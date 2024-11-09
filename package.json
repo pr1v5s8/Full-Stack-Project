@@ -1,0 +1,15 @@
+{
+  "name": "full-stack-project",
+  "version": "1.0.0",
+  "description": "Create a full stack web development Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Full-Stack-Project"
+  },
+  "author": "Pravesh",
+  "license": "ISC"
+}
